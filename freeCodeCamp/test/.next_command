@@ -71,3 +71,4 @@ cd ..
 cd ../../
 ls --color=auto -l
 clear
+mkdir website
