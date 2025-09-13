@@ -40,3 +40,4 @@ npm install
 npm run programmatic-test
 cd ..
 pwd
+ls --color=auto
