@@ -80,3 +80,4 @@ touch index.html
 touch stules.css
 ls --color=auto
 mv stules.css styles.css
+ls --color=auto -l
